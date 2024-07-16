@@ -1,6 +1,6 @@
 function formatMessage(message, maxLength) {
     const messageLenght = message.length
-    if (maxlenght >= messageLenght) {
+    if (maxLenght >= messageLenght) {
         return message;
     }
     else {
